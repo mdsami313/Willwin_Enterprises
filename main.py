@@ -36,6 +36,19 @@ def main():
         .st-emotion-cache-1v0mbdj img{
             width: 130px;
         }
+        .centered-text{
+            font-family: cursive
+        }
+        p{
+            font-family: cursive
+        }
+
+        h4{
+            font-family: cursive;
+        }
+        #products-gallery{
+            font-family: cursive;
+        }
         </style>
         """,
         unsafe_allow_html=True,
