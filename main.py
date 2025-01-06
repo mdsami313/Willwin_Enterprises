@@ -64,6 +64,9 @@ def main():
         #product-range{
             font-family: cursive;
         }
+        ul{
+            font-family: cursive;
+        }
         
         </style>
         """,
