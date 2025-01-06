@@ -49,6 +49,22 @@ def main():
         #products-gallery{
             font-family: cursive;
         }
+        #vision{
+            font-family: cursive;
+        }
+        #mission{
+            font-family: cursive;
+        }
+        #culture{
+            font-family: cursive;
+        }
+        #quality-policy{
+            font-family: cursive;
+        }
+        #product-range{
+            font-family: cursive;
+        }
+        
         </style>
         """,
         unsafe_allow_html=True,
